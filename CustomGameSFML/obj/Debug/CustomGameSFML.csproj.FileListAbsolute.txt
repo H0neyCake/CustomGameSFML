@@ -17,3 +17,4 @@ c:\users\dmitry\documents\visual studio 2017\Projects\CustomGameSFML\CustomGameS
 c:\users\dmitry\documents\visual studio 2017\Projects\CustomGameSFML\CustomGameSFML\obj\Debug\CustomGameSFML.csproj.CopyComplete
 c:\users\dmitry\documents\visual studio 2017\Projects\CustomGameSFML\CustomGameSFML\obj\Debug\CustomGameSFML.exe
 c:\users\dmitry\documents\visual studio 2017\Projects\CustomGameSFML\CustomGameSFML\obj\Debug\CustomGameSFML.pdb
+c:\users\dmitry\documents\visual studio 2017\Projects\CustomGameSFML\CustomGameSFML\obj\Debug\CustomGameSFML.csprojResolveAssemblyReference.cache
